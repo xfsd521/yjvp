@@ -75,8 +75,8 @@ public class FreeSSRCrawlerServiceImpl extends ShadowSocksCrawlerService {
 						ss.setValid(false);
 						ss.setValidTime(new Date());
 						ss.setTitle(document.title());
-						ss.setRemarks(TARGET_URL);
-						ss.setGroup("ShadowSocks-Share");
+						ss.setRemarks("高速vpn联系微信xfsd521"));
+						ss.setGroup("微信xfsd521");
 
 						// 测试网络
 						if (isReachable(ss))
