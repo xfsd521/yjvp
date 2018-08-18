@@ -22,7 +22,7 @@ import java.util.*;
 public class DoubCrawlerServiceImpl extends ShadowSocksCrawlerService {
 
 	// 目标网站 URL
-	private static final String TARGET_URL = "XFSD521";//https://doub.io/sszhfx/
+	private static final String TARGET_URL = "https://doub.io/sszhfx/";//获取数据用的
 
 	// 协议
 	private final static Map<String, String> protocolMap = new HashMap<>();
