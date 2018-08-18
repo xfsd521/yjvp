@@ -73,8 +73,8 @@ public class PromPHPCrawlerServiceImpl extends ShadowSocksCrawlerService {
 					ss.setValid(false);
 					ss.setValidTime(new Date());
 					ss.setTitle("免费账号 | 云端框架");
-					ss.setRemarks("https://cloudfra.com/");
-					ss.setGroup("ShadowSocks-Share");
+					ss.setRemarks("高速vpn联系微信xfsd521");
+					ss.setGroup("微信xfsd521");
 
 					// 测试网络
 					if (isReachable(ss))
