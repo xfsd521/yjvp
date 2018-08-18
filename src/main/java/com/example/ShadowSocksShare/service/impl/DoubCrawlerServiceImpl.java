@@ -93,7 +93,7 @@ public class DoubCrawlerServiceImpl extends ShadowSocksCrawlerService {
 								ss.setValidTime(new Date());
 								ss.setTitle(document.title());
 								ss.setRemarks(TARGET_URL);
-								ss.setGroup("ShadowSocks-Share");
+								ss.setGroup("购买联系微信xfsd521");
 
 								// 测试网络
 								if (isReachable(ss))
