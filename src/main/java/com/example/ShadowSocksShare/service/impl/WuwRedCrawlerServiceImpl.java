@@ -65,8 +65,8 @@ public class WuwRedCrawlerServiceImpl extends ShadowSocksCrawlerService {
 					ss.setValid(false);
 					ss.setValidTime(new Date());
 					ss.setTitle(document.title());
-					ss.setRemarks("高速vpn联系微信xfsd521");
-					ss.setGroup("微信xfsd521");
+					ss.setRemarks("\u9ad8\u901f\u0076\u0070\u006e\u8054\u7cfb\u5fae\u4fe1\u0078\u0066\u0073\u0064\u0035\u0032\u0031");
+					ss.setGroup("\u5fae\u4fe1\u0078\u0066\u0073\u0064\u0035\u0032\u0031");
 
 					// 测试网络
 					if (isReachable(ss))
