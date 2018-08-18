@@ -5,7 +5,7 @@
 server:
   servlet:
     context-path: /
-    application-display-name: 购买联系微信xfsd521
+    application-display-name: ShadowSocks-Share
 
 
 # ========== Spring ==========
