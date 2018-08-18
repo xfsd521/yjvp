@@ -22,7 +22,7 @@ import java.util.*;
 public class DoubCrawlerServiceImpl extends ShadowSocksCrawlerService {
 
 	// 目标网站 URL
-	private static final String TARGET_URL = "测试";//https://doub.io/sszhfx/
+	private static final String TARGET_URL = "XFSD521";//https://doub.io/sszhfx/
 
 	// 协议
 	private final static Map<String, String> protocolMap = new HashMap<>();
@@ -93,7 +93,7 @@ public class DoubCrawlerServiceImpl extends ShadowSocksCrawlerService {
 								ss.setValidTime(new Date());
 								ss.setTitle(document.title());
 								ss.setRemarks(TARGET_URL);
-								ss.setGroup("购买联系微信xfsd521");
+								ss.setGroup("xfsd521");
 
 								// 测试网络
 								if (isReachable(ss))
